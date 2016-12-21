@@ -1,0 +1,9 @@
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.exe.config
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.exe
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.pdb
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\DHT_Remote_Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\DHT_Remote_Monitoring.Form1.resources
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\DHT_Remote_Monitoring.Properties.Resources.resources
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\DHT_Remote_Monitoring.csproj.GenerateResource.Cache
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.exe
+C:\Users\Inventor\Documents\Visual Studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.pdb

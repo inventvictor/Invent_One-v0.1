@@ -1,0 +1,9 @@
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.exe.config
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.exe
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\bin\Debug\tegina_project.pdb
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.csprojResolveAssemblyReference.cache
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.Form1.resources
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.Properties.Resources.resources
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.csproj.GenerateResource.Cache
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.exe
+c:\users\inventor\documents\visual studio 2013\Projects\tegina_project\tegina_project\obj\Debug\tegina_project.pdb
